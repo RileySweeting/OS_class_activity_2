@@ -2,7 +2,7 @@
 
 int main() {
     // Variables
-    int ages[] = {25, 44, 93, 71, 5, 69};
+    int ages[] = {20, 22, 18, 35, 48, 26, 87, 70};
     int length = sizeof(ages) / sizeof(ages[0]);
     int sum = 0;
     int min = ages[0];
